@@ -1,7 +1,7 @@
 # Projet_3
 Créez et utilisez une base de données immobilière avec SQL, Openclassrooms, Data Analyst
 
-Création de la base de données sur MySQL Workbench
+Création de la base de données sur MySQL Workbench et création de 11 requêtes différentes pour répondre aux demandes de l'énoncé.
 
 ## Compétences évaluées
   - Mettre à jour un catalogue de données
