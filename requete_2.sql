@@ -1,3 +1,5 @@
+Le nombre de ventes d’appartement par région pour le 1er semestre 2020. 
+
 Select count(distinct Id_vente) as Nombre_appart , Nom_region as "Région" from vente
 join bien on (bien.Commune_Id_codedep_codecommune = vente.Id_codedep_codecommune)
 join commune on (commune.Id_codedep_codecommune = vente.Id_codedep_codecommune)
